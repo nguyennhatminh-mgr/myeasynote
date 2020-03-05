@@ -30,7 +30,7 @@
 
 
 .noteimage{
-  max-width: 100%;
+  max-width: 55%;
 }
 
 .minheightlist{
@@ -54,6 +54,10 @@
     .col-4{
       max-width: 100%;
     }
+    .noteimage{
+      max-width: 100%;
+    }
+    
 }
 
 /* Tablet */

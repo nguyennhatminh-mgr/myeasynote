@@ -16,7 +16,7 @@ class NoteItem extends Component {
 
     render() {
         return (
-            <div className="card">
+            <div className="card mb-2">
                 <div className="card-header d-flex" role="tab" id="section1HeaderId">
                     <h5 className="mb-0 col-9">
                     <a data-toggle="collapse" data-parent="#listNote" href={"#number"+this.props.index} aria-expanded="true" aria-controls="section1ContentId">
