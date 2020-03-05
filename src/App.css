@@ -57,7 +57,9 @@
     .noteimage{
       max-width: 100%;
     }
-    
+    .minheightlist{
+      min-height: 100vh;
+    }
 }
 
 /* Tablet */
